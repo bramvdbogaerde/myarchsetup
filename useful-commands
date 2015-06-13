@@ -1,0 +1,7 @@
+# My Arch setup
+pacman -Sy gnome gnome-extras gdm
+pacman -Sy docky
+# Gnome icon pack: Superflat-remix
+# LANG=nl_BE
+setxkbmap -layout be -variant mac
+localectl set-x11-keymap be "" mac
