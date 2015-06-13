@@ -5,3 +5,17 @@ pacman -Sy docky
 # LANG=nl_BE
 setxkbmap -layout be -variant mac
 localectl set-x11-keymap be "" mac
+# Yaourt install:
+# http://revryl.com/2013/07/11/yaourt-installation-arch-linux/
+
+# Yaourt steam:
+yaourt steam
+
+# Yaourt spotify
+yaourt spotify
+
+# Yaourt atom-editor
+yaourt atom-editor
+
+# OpenJDK 8
+pacman -Sy jre8-openjdk jdk8-openjdk
