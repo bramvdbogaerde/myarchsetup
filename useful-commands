@@ -21,4 +21,4 @@ yaourt atom-editor
 pacman -Sy jre8-openjdk jdk8-openjdk
 
 # Superflat remix download and install
-wget https://github.com/bramvdbogaerde/myarchsetup/blob/master/superflat-remix.gz?raw=true && tar xf superflat-remix.gz && cp -r flat-remix /usr/share/icons/
+wget https://github.com/bramvdbogaerde/myarchsetup/blob/master/superflat-remix.gz?raw=true && tar xf superflat-remix.gz && cp -r flat-remix /usr/share/icons/flat-remix
